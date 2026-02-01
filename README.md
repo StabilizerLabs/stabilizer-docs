@@ -5,7 +5,7 @@
   
   **The Zero-Slippage AMM for Stablecoins**
   
-  [![Website](https://img.shields.io/badge/Website-stabilizer.finance-00ff88)](https://stabilizer.finance)
+  [![Website](https://img.shields.io/badge/Website-stabilizer.finance-5F918D)](https://stabilizer.finance)
   [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://stabilizer-1.gitbook.io/stabilizer-docs)
   [![Twitter](https://img.shields.io/twitter/follow/StabilizerFi?style=social)](https://twitter.com/StabilizerFi)
   
