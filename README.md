@@ -125,7 +125,7 @@ Interested in integrating Stabilizer or building on top of the protocol?
 
 Security is our top priority. Our contracts will undergo multiple professional audits before mainnet launch.
 
-- **Audits**: Scheduled for Q2 2026
+- **Audits**: Scheduled for Phase 2
 - **Bug Bounty**: Launching with testnet
 - **Responsible Disclosure**: info@stabilizer.finance
 
