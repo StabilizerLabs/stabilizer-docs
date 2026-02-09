@@ -50,7 +50,7 @@ Read the full technical specification in our [whitepaper](https://stabilizer-1.g
 ## 🏗️ Repositories
 
 ### Core Protocol
-- **[stabilizer-contracts](https://github.com/stabilizer-finance/stabilizer-contracts)** - Smart contracts (releasing Phase 2)
+- ** stabilizer-contracts** - Smart contracts (releasing Phase 2)
 - **[stabilizer-sdk](https://github.com/stabilizer-finance/stabilizer-sdk)** - Developer SDK (coming soon)
 
 ### Documentation & Tools
