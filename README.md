@@ -65,7 +65,6 @@ Read the full technical specification in our [whitepaper](https://stabilizer-1.g
 - ✅ Whitepaper released
 - ✅ Community building 
 - ✅ Comparison tool launched
-- 🔄 Pre-seed fundraising
 - 🔄 Protocol development
 
 ### Phase 2
